@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="git://github.com/shivdasgujare/" />
+
+  <default remote="github"/>
+  <project groups="default" name="aceyocto" path="downloadto/aceyocto" revision="a74ba1b953f603e8f365198355994517e2501e11"/>
+
+</manifest>
