@@ -5,6 +5,7 @@
            fetch="git://github.com/shivdasgujare/" />
 
   <default remote="github"/>
-  <project groups="default" name="aceyocto" path="downloadto/aceyocto" revision="a74ba1b953f603e8f365198355994517e2501e11"/>
+  <project groups="default" name="buildscripts" path="scripts" revision="3ced6f6d7c5071b3ce8fc017ecc3a8c7948c502a"/>
+  <project groups="default" name="poky" path="metadata/poky" revision="e89f812a0af56beda951c1dce6113a61d6db8cda"/>
 
 </manifest>
