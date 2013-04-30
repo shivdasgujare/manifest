@@ -7,5 +7,6 @@
   <default remote="github"/>
   <project groups="default" name="buildscripts" path="scripts" revision="3ced6f6d7c5071b3ce8fc017ecc3a8c7948c502a"/>
   <project groups="default" name="poky" path="metadata/poky" revision="e89f812a0af56beda951c1dce6113a61d6db8cda"/>
+  <project groups="default" name="meta-blanket" path="metadata/meta-blanket" revision="fc2321777564440e84825e871d3d6ab6989175f4"/>
 
 </manifest>
